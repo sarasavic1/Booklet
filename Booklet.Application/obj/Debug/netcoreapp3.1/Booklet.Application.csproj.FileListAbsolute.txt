@@ -1,0 +1,12 @@
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\bin\Debug\netcoreapp3.1\Booklet.Application.deps.json
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\bin\Debug\netcoreapp3.1\Booklet.Application.dll
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\bin\Debug\netcoreapp3.1\Booklet.Application.pdb
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\bin\Debug\netcoreapp3.1\Booklet.Domain.dll
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\bin\Debug\netcoreapp3.1\Booklet.Domain.pdb
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.AssemblyInfoInputs.cache
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.AssemblyInfo.cs
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.csproj.CopyComplete
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.dll
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.pdb
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Booklet\Booklet.Application\obj\Debug\netcoreapp3.1\Booklet.Application.csproj.AssemblyReference.cache
